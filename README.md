@@ -70,4 +70,4 @@ This project showcases the use of **ResNet50** for object classification with th
 To clone this repository to your local machine, run the following command:
 
 ```bash
-git clone https://github.com/addy-vi/Object-Detection-Model.git
+git clone https://github.com/adnan-saif/Object-Detection-Model.git
